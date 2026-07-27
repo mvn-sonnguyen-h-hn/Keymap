@@ -93,7 +93,7 @@ layers:
   - {t: +, h: '$$mdi:apple-keyboard-option$$'}
   - $$mdi:keyboard-esc$$
   - '|'
-  - $$mdi:apple-keyboard-control$$
+  - ^
   - '&'
   - '*'
   - '"'
