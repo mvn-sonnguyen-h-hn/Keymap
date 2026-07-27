@@ -80,7 +80,7 @@ layers:
   - (
   - )
   - {t: /, s: '?'}
-  - \
+  - {t: \, s: '|'}
   - {t: '!', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '@', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '#', h: '$$mdi:apple-keyboard-control$$'}
