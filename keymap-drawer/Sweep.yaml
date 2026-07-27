@@ -34,7 +34,7 @@ layers:
   - {t: '$$mdi:keyboard-tab$$', h: Symbol}
   - $$mdi:keyboard-space$$
   - RETURN
-  - {t: '$$mdi:backspace-reverse-outline$$', h: lower_layer}
+  - {t: '$$mdi:backspace$$', h: lower_layer}
   lower_layer:
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
