@@ -71,36 +71,36 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   Symbol:
-  - $$mdi:keyboard-esc$$
-  - '"'
+  - {t: '`', s: '~'}
+  - '~'
   - <
   - '>'
-  - {t: /, s: '?'}
+  - {t: ;, s: ':'}
   - _
   - (
   - )
-  - '~'
+  - {t: /, s: '?'}
   - \
   - {t: '!', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '@', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '#', h: '$$mdi:apple-keyboard-control$$'}
   - {t: $, h: LGUI}
   - '%'
-  - +
+  - {t: '''', s: '"'}
   - {t: '[', h: RGUI, s: '{'}
   - {t: ']', h: '$$mdi:apple-keyboard-control$$', s: '}'}
   - {t: '=', h: '$$mdi:apple-keyboard-shift$$', s: +}
-  - {t: '''', h: '$$mdi:apple-keyboard-option$$', s: '"'}
-  - $$mdi:keyboard-tab$$
+  - {t: +, h: '$$mdi:apple-keyboard-option$$'}
+  - $$mdi:keyboard-esc$$
   - '|'
   - $$mdi:apple-keyboard-control$$
   - '&'
   - '*'
-  - {t: '-', s: _}
+  - '"'
   - '{'
   - '}'
-  - {t: '`', s: '~'}
   - '?'
+  - {t: '-', s: _}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
