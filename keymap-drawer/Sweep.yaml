@@ -49,9 +49,9 @@ layers:
   - {t: F1, h: '$$mdi:apple-keyboard-option$$'}
   - {t: MUTE, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:volume-low$$', h: '$$mdi:apple-keyboard-control$$'}
-  - {t: '$$mdi:volume-high$$', h: Sft+LGUI}
+  - {t: '$$mdi:volume-high$$', h: LGUI}
   - PgUp
-  - Sft+$$mdi:arrow-left-bold$$
+  - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
