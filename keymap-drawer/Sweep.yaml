@@ -52,8 +52,8 @@ layers:
   - {t: '$$mdi:volume-high$$', h: Sft+LGUI}
   - PgUp
   - Sft+$$mdi:arrow-left-bold$$
-  - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
   - F10
   - F2
