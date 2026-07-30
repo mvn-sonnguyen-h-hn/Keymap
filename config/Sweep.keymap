@@ -149,10 +149,10 @@
         Symbol {
             display-name = "Symbol";
             bindings = <
-&kp GRAVE                           &kp TILDE                    &kp LESS_THAN                    &kp GREATER_THAN           &kp SEMICOLON  &kp UNDERSCORE     &kp LEFT_PARENTHESIS             &kp RIGHT_PARENTHESIS                      &kp SLASH                        &kp BACKSLASH
-&homerow_mods LEFT_ALT EXCLAMATION  &homerow_mods LEFT_SHIFT AT  &homerow_mods LEFT_CONTROL HASH  &homerow_mods LGUI DOLLAR  &kp PERCENT    &kp SQT            &homerow_mods RGUI LEFT_BRACKET  &homerow_mods RIGHT_CONTROL RIGHT_BRACKET  &homerow_mods RIGHT_SHIFT EQUAL  &homerow_mods RIGHT_ALT PLUS
-&kp ESC                             &kp PIPE                     &kp CARET                        &kp AMPERSAND              &kp ASTERISK   &kp DOUBLE_QUOTES  &kp LEFT_BRACE                   &kp RIGHT_BRACE                            &kp QUESTION                     &kp MINUS
-                                                                                                  &trans                     &trans         &trans             &trans
+&kp TILDE                   &kp GRAVE                    &kp CARET                        &kp AMPERSAND              &kp SEMICOLON  &kp SQT            &kp LEFT_PARENTHESIS             &kp RIGHT_PARENTHESIS                      &kp SLASH                           &kp PLUS
+&homerow_mods LEFT_ALT ESC  &homerow_mods LEFT_SHIFT AT  &homerow_mods LEFT_CONTROL HASH  &homerow_mods LGUI DOLLAR  &kp PERCENT    &kp DOUBLE_QUOTES  &homerow_mods RGUI LEFT_BRACKET  &homerow_mods RIGHT_CONTROL RIGHT_BRACKET  &homerow_mods RIGHT_SHIFT QUESTION  &homerow_mods RIGHT_ALT MINUS
+&kp EXCLAMATION             &kp PIPE                     &kp LESS_THAN                    &kp GREATER_THAN           &kp ASTERISK   &kp UNDERSCORE     &kp LEFT_BRACE                   &kp RIGHT_BRACE                            &kp EQUAL                           &kp BACKSLASH
+                                                                                          &trans                     &trans         &trans             &trans
             >;
         };
     };
