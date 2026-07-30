@@ -30,7 +30,7 @@ layers:
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
-  - ':'
+  - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-tab$$', h: Symbol}
   - $$mdi:keyboard-space$$
   - RETURN
