@@ -46,7 +46,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - {t: F1, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: PLAY PAUSE, h: '$$mdi:apple-keyboard-option$$'}
   - {t: MUTE, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:volume-low$$', h: '$$mdi:apple-keyboard-control$$'}
   - {t: '$$mdi:volume-high$$', h: LGUI}
