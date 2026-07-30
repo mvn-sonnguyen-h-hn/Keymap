@@ -10,7 +10,7 @@ layers:
   - U
   - I
   - O
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - ':'
   - {t: A, h: '$$mdi:apple-keyboard-option$$'}
   - {t: S, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: D, h: '$$mdi:apple-keyboard-control$$'}
