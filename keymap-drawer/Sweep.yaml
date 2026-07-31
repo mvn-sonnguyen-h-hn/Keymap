@@ -58,8 +58,8 @@ layers:
   - F10
   - F2
   - F3
-  - F4
-  - F5
+  - $$mdi:skip-previous$$
+  - $$mdi:skip-next$$
   - PgDn
   - F6
   - F7
